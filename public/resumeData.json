@@ -1,0 +1,190 @@
+{
+  "main": {
+    "name": "Ashish Siddhu",
+    "occupation": "Front End Engineer",
+    "description": "6+ years of software development experience. Proficient in translating designs & wireframes into high-quality code and writing application interface code via JavaScript and ReactJS workflows. Adept at monitoring & maintaining frontend performance and troubleshooting & debugging the same to booster overall performance.",
+    "image": "profilepic.jpg",
+    "bio": "Innovative Software Developer with 6+ years of experience building and maintaining website. Proficient in new frameworks such as: ReactJs and Angular, plus modern libraries like JavaScript, HTML, CSS",
+    "contactmessage": "I'd Love To Hear From You",
+    "email": "ashishsiddhu4@gmail.com",
+    "phone": "+1 786-972-2237",
+    "address": {
+      "street": "4350 NW, 107th AVE, Apt 305",
+      "city": "Miami",
+      "state": "Florida",
+      "zip": "33178"
+    },
+    "website": "http://www.ashishsiddhu.com",
+    "resumedownload": "./Ashish_Resume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/ashish.siddhu.1",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/ashish_sidd",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ashish-siddhu-4a3484a8/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ashish_siddhu_/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Technical Skills",
+    "education": [
+      {
+        "school": "Dr. A.P.J. Abdul Kalam Technical University",
+        "degree": "Beachlor of Technology (Engineer)",
+        "graduated": "2010 - 2014",
+        "description": "-"
+      },
+      {
+        "school": "Dewan Public School",
+        "degree": "12th",
+        "graduated": "2009 - 2010",
+        "description": "-"
+      }
+    ],
+    "work": [
+      {
+        "company": "Hughes Systique Pvt Ltd",
+        "title": "Senior Software Engineer",
+        "years": "Dec 2017 - Present",
+        "project_1": "CARNIVAL VOD",
+        "project_1_duration": "July 2019 - Present",
+        "project_1_description": "VOD is Media streaming application and it runs on stateroom TV of Carnival, Princess Cruises, HAL & Seaborn cruise line. This Application is like Netflix, Amazon Prime and It includes lot of functionalities such as play Audio/Video file, search, bookmark, favorites, AutoPlay, Playlist, ScreenPresence, Responsiveness etc.",
+        "project_1_roles_1": "Designed UI components using reactJs.",
+        "project_1_roles_2": "Working as a Frontend lead of development team.",
+        "project_1_roles_3": "Requirement Analysis and Design.",
+        "project_1_roles_4": "Exclusively working on front end Modules using React.js,JavaScript, Redux, HTML5, CSS",
+        "project_2": "CARNIVAL WIFI WEB",
+        "project_2_duration": "Dec 2017 - July 2019",
+        "project_2_description": "Carnival Wi-Fi Web is a portal to provide internet on the remote areas using the satellite. This is used on ships to provide the internet to the travelers. This app is using by cruise travelers to connect the internet, while they are onboard.",
+        "project_2_roles_1": "Designed entire UI of this application from scratch as a frontend Architect",
+        "project_2_roles_2": "Created responsive website for desktop, mobile and tablets.",
+        "project_2_roles_3": "Requirement Analysis and Design.",
+        "project_2_roles_4": "Integrated different bundling strategies including webpack, grunt and gulp."
+      },
+      {
+        "company": "Nihilent Technologies Ltd",
+        "title": "Software Analyst",
+        "years": "Mar 2017 - Nov 2017",
+        "project_1": "NEDBANK",
+        "project_1_duration": "Mar 2017 - Oct 2017",
+        "project_1_description": "It is a Banking project on Agile methodology the project aims to enabling the build stronger customer relationships with attractive UI using AngularJs to fulfill the customer satisfactions also in this project.",
+        "project_1_roles_1": "Exclusively worked on payment gateway using auth tok",
+        "project_1_roles_2": "Requirement Analysis and Design."
+      },
+      {
+        "company": "Aloha Technology Pvt Ltd",
+        "title": "Software Developer",
+        "years": "Nov 2014 - Mar 2017",
+        "project_1": "PHS (PUBLIC HEALTH SERVICE)",
+        "project_1_duration": "Nov 2014 - Mar 2017",
+        "project_1_description": "It is a Hospital project, the project aims to enabling the physicians build stronger customer relationships, improved time management, increased patient satisfaction, optimum utilization of resources and simplify the patient billing process.",
+        "project_1_roles_1": "Implemented several reports using AngularJs, JavaScript and jQuery as per client requirements.",
+        "project_1_roles_2": "Key resource of Development & Implementation team.",
+        "project_1_roles_3": "Designed and developed an agent dashboard to manually reconcile exceptions."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Redux",
+        "level": "70%"
+      },
+      {
+        "name": "Webpack",
+        "level": "70%"
+      },
+      {
+        "name": "Jest",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "65%"
+      },
+      {
+        "name": "SQL",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.ashishsiddhu.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.ashishsiddhu.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.ashishsiddhu.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Add some comments",
+        "user": "Ash Sidd"
+      },
+      {
+        "text": "He is brilliant software developers I've ever met! Hey you, you should hire this guy, I am confident that he will be one of your best developers in no time!",
+        "user": "Ash Sidd11"
+      }
+    ]
+  }
+}
