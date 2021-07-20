@@ -2,9 +2,9 @@
   "main": {
     "name": "Ashish Siddhu",
     "occupation": "Front End Engineer",
-    "description": "6+ years of software development experience. Proficient in translating designs & wireframes into high-quality code and writing application interface code via JavaScript, ReactJS/Angular workflows. Adept at monitoring & maintaining frontend performance and troubleshooting & debugging the same to booster overall performance.",
+    "description": "6+ years of software development experience. Proficient in translating designs & wireframes into high-quality code and writing application interface code via JavaScript and ReactJS workflows. Adept at monitoring & maintaining frontend performance and troubleshooting & debugging the same to booster overall performance.",
     "image": "profilepic.jpg",
-    "bio": "Innovative Software Developer with 6+ years of experience with cutting edge frontend technologies. Proficient in new frameworks such as: ReactJs and Angular, and modern libraries like JavaScript, HTML, CSS.",
+    "bio": "Innovative Software Developer with 6+ years of experience building and maintaining website. Proficient in new frameworks such as: ReactJs and Angular, plus modern libraries like JavaScript, HTML, CSS",
     "contactmessage": "I'd Love To Hear From You",
     "email": "ashishsiddhu4@gmail.com",
     "phone": "+1 786-972-2237",
@@ -15,7 +15,7 @@
       "zip": "33178"
     },
     "website": "http://www.ashishsiddhu.com",
-    "resumedownload": "https://drive.google.com/file/d/1ha-yXuyqBUjchwq5bn4qKYw1kKWr6WZL/view",
+    "resumedownload": "./Ashish_Resume.pdf",
     "social": [
       {
         "name": "facebook",
