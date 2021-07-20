@@ -15,7 +15,7 @@
       "zip": "33178"
     },
     "website": "http://www.ashishsiddhu.com",
-    "resumedownload": "https://drive.google.com/file/d/1ha-yXuyqBUjchwq5bn4qKYw1kKWr6WZL/view",
+    "resumedownload": "https://drive.google.com/file/d/13luNjSqg27p3xsTzo9hTV3h126qjqI76/view",
     "social": [
       {
         "name": "facebook",
@@ -67,14 +67,14 @@
         "years": "Dec 2017 - Present",
         "project_1": "CARNIVAL VOD",
         "project_1_duration": "July 2019 - Present",
-        "project_1_description": "VOD is Media streaming application and it runs on stateroom TV of Carnival, Princess Cruises, HAL & Seaborn cruise line. This Application is like Netflix, Amazon Prime and It includes lot of functionalities such as play Audio/Video file, search, bookmark, favorites, AutoPlay, Playlist, ScreenPresence, Responsiveness etc.",
+        "project_1_description": "VOD(Video-on-demand) is a media streaming application which runs on stateroom TVs of Carnival cruises, Princess Cruises, HAL & Seaborn cruise. This application is like Netflix, Amazon Prime and it provides vast number of films, documentaries and television programmes from a large catalogue. This application includes functionalities such as: Audio/Video playback, search content, bookmark, favorites,AutoPlay, Playlist, Live Video streaming & Responsiveness.",
         "project_1_roles_1": "Designed UI components using reactJs.",
         "project_1_roles_2": "Working as a Frontend lead of development team.",
         "project_1_roles_3": "Requirement Analysis and Design.",
         "project_1_roles_4": "Exclusively working on front end Modules using React.js,JavaScript, Redux, HTML5, CSS",
         "project_2": "CARNIVAL WIFI WEB",
         "project_2_duration": "Dec 2017 - July 2019",
-        "project_2_description": "Carnival Wi-Fi Web is a portal to provide internet on the remote areas using the satellite. This is used on ships to provide the internet to the travelers. This app is using by cruise travelers to connect the internet, while they are onboard.",
+        "project_2_description": "Carnival MedallionNet is a web portal used by guests and crew onboard to access various onboard services and purchase internet plans.",
         "project_2_roles_1": "Designed entire UI of this application from scratch as a frontend Architect",
         "project_2_roles_2": "Created responsive website for desktop, mobile and tablets.",
         "project_2_roles_3": "Requirement Analysis and Design.",
@@ -86,7 +86,7 @@
         "years": "Mar 2017 - Nov 2017",
         "project_1": "NEDBANK",
         "project_1_duration": "Mar 2017 - Oct 2017",
-        "project_1_description": "It is a Banking project on Agile methodology the project aims to enabling the build stronger customer relationships with attractive UI using AngularJs to fulfill the customer satisfactions also in this project.",
+        "project_1_description": "Nedbank is South African bank, which offers banking services like insurance, asset management, and wealth management. The project was an insurance portal which enabled stronger customer relationships with an attractive, easy to use UI using AngularJs.",
         "project_1_roles_1": "Exclusively worked on payment gateway using auth tok",
         "project_1_roles_2": "Requirement Analysis and Design."
       },
@@ -94,9 +94,9 @@
         "company": "Aloha Technology Pvt Ltd",
         "title": "Software Developer",
         "years": "Nov 2014 - Mar 2017",
-        "project_1": "PHS (PUBLIC HEALTH SERVICE)",
+        "project_1": "AXIS Bank",
         "project_1_duration": "Nov 2014 - Mar 2017",
-        "project_1_description": "It is a Hospital project, the project aims to enabling the physicians build stronger customer relationships, improved time management, increased patient satisfaction, optimum utilization of resources and simplify the patient billing process.",
+        "project_1_description": "Axis Bank Limited is an Indian banking and financial services company. It sells financial services to large and mid-size companies. The project was a timesheet, billing and invoicing portal used by Axis bank employees.",
         "project_1_roles_1": "Implemented several reports using AngularJs, JavaScript and jQuery as per client requirements.",
         "project_1_roles_2": "Key resource of Development & Implementation team.",
         "project_1_roles_3": "Designed and developed an agent dashboard to manually reconcile exceptions."
@@ -124,7 +124,15 @@
         "level": "70%"
       },
       {
+        "name": "Angular",
+        "level": "60%"
+      },
+      {
         "name": "Webpack",
+        "level": "70%"
+      },
+      {
+        "name": "TypeScript",
         "level": "70%"
       },
       {
@@ -178,12 +186,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Add some comments",
-        "user": "Ash Siddhu"
+        "text": "Ashish is a fantastic, hands on UI developer who has regularly delivered projects with seamless user experience. Whenever you want something front end, Ashish is the guy to look for. An asset to any team, he is always willing to work hard and help out his peers to learn and grow as well.",
+        "user": "Ritwik Pandav"
       },
       {
-        "text": "He is brilliant software developers I've ever met! Hey you, you should hire this guy, I am confident that he will be one of your best developers in no time!",
-        "user": "Ash Sidd11"
+        "text": "Ashish is knowledgeable, problem solver and a team player. One can always rely on him to came up with solutions at critical times",
+        "user": "Sandeep Kumar"
       }
     ]
   }
